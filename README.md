@@ -48,3 +48,12 @@ To build a real-time analytics platform that tracks user interactions, runs A/B 
 - ✅ Live dashboards for funnel and ROI reporting
 
 ## 📁 Project Structure (Coming Soon)
+
+📦 conversionboost360/
+┣ 📂 frontend/
+┣ 📂 backend/
+┣ 📂 data-pipeline/
+┣ 📂 dashboards/
+┣ 📂 models/
+┣ 📄 README.md
+┗ 📄 .env.example
